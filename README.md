@@ -13,6 +13,7 @@ Free to read, download, and use.
 | Resource | Description | |
 | --- | --- | --- |
 | **Best Trivia Ever** | Writes short, spoken trivia scripts for meeting icebreakers. | [folder](skills/best-trivia-ever) · [download](skills/best-trivia-ever/best-trivia-ever.zip) |
+| **CRO Lens** | Pressure-tests your work from a CRO's seat and names the next move. | [folder](skills/cro-lens) · [download](skills/cro-lens/cro-lens.zip) |
 
 ## How to use a skill
 
