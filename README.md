@@ -1,7 +1,8 @@
 # How to Train Your Agent
 
-A growing, open collection of AI resources — Claude skills, prompts, and patterns
-I've built and found useful. Free to read, download, and adapt.
+I'm a marketing leader who builds with AI and writes down what actually works.
+This is where the skills, prompts, and patterns that earned their place go.
+Free to read, download, and use.
 
 🌐 **Live site:** https://asaenger-beep.github.io/how-to-train-your-agent/
 
@@ -15,19 +16,19 @@ I've built and found useful. Free to read, download, and adapt.
 
 ## How to use a skill
 
-Each skill is a self-contained folder with a `SKILL.md` (the instructions Claude
-reads) and a `README.md` (a human-friendly overview). Download the folder or the
-`.zip`, then add it the way you normally add a skill to Claude.
+Every skill is a self-contained folder: a `SKILL.md` (the instructions Claude reads)
+plus a `README.md` (the overview for you). Download the folder or the `.zip`, then
+add it the way you normally add a skill to Claude. No accounts, no setup.
 
-## Contributing / reuse
+## Reuse
 
-Everything here is shared openly for you to adapt to your own workflows.
+Everything here is open. Take it, change it, make it yours.
 
 ## Connect
 
-Building something with AI, or want to swap notes on agents and skills?
-[Connect with me on LinkedIn](https://www.linkedin.com/in/amysaenger/).
+Building with AI too, or want to compare notes on agents and skills?
+[Find me on LinkedIn](https://www.linkedin.com/in/amysaenger/).
 
 ---
 
-*This site is published with GitHub Pages from the `main` branch.*
+*Published with GitHub Pages from the `main` branch.*
